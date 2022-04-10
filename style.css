@@ -111,6 +111,7 @@ header .container > .row .col > .second {
     -o-transform: translateX(-20%);
     width: 100%;
     height: 100%;
+    object-fit: contain;
 }
 
 .section-track .row > .col-lg-6 > .row h3 {
