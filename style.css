@@ -296,6 +296,10 @@ footer .container .logo {
         width: 84%;
     }
 
+}
+
+@media (max-width:580px) {
+    
     footer .container .logo {
         margin-bottom: 20px;
     }
